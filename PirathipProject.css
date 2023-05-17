@@ -1,0 +1,53 @@
+body{
+    background: url("signin1.jpg");
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Geneva, Tahoma, sans-serif;
+}
+.regform{
+    width:500px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin:250px auto;
+    color:rgb(255, 250, 250);
+    padding: 10px 20px 30px;
+    font: size 20px;
+    font-weight:bold ;
+}
+.regform h3{
+    text-align: center;
+    color:whitesmoke;
+}
+.textlabel{
+    display: block;
+    color:#f54040;
+    font-weight: bolder;
+}
+.input input{
+    width: 100%;
+    font-size: 1.1em;
+    border-radius: 8px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+}
+button{
+    display: grid;
+    background-color:#f54040;
+    margin-top: 20px;
+    margin-left: 170px;
+    padding: 15px 25px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+button:hover{
+    background-color: #FFE194;
+}
+label{
+    color: #342400;
+}
+a{
+    position: relative;
+    right: -150px;
+    text-align: center;
+    color: gray;
+}
+.radio input{
+    accent-color:  #F9E2AF;
+}
